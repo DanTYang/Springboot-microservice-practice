@@ -1,0 +1,11 @@
+Project: Maven Project
+Language: Java
+Springboot: 2.7.5
+Group: com.danyang.stock
+Artifact: db-service
+Packaging: Jar
+Java: 17
+Dependences: mySql web JPA
+
+
+MYSQL root password: asdf
